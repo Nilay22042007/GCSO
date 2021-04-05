@@ -30,7 +30,7 @@ if(deformation>100)
 {
 car.shapoeColor=color(0,230,0)
 }
-}
+}}
 
 
 
